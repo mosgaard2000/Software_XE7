@@ -18,3 +18,6 @@ It takes the compiled hex file and the private key file as inputs and outputs a 
 6. Press 'Convert' to generate "Bootloader_out.hex".
 
 7. "Bootloader_out.hex" can be read by the bootloader.
+
+-----------------------------------------------------------------------------
+Questions/comments to mosgaard2000@hotmail.com
